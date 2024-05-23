@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+DoUrVerse is a keybinding application and community suite for Star Citizen. The code is currently hosted on a OneDev repository. 
+
 <!--
 **dourverse/dourverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
